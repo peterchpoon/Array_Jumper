@@ -1,2 +1,2 @@
 # Array_Jumper
-This is essentially a Directed acyclic graph.
+This is essentially a directed acyclic graph.
